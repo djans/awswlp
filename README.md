@@ -5,7 +5,7 @@
 This small Java EE app supports the lab [Build and run a WebSphere Liberty app with Docker](https://github.com/IBMAppModernization/app-modernization-liberty-on-docker).
 
 
-### Building the app
+### Building the app 1
 
 You'll need the following to build the app from source:
 - A Java 8 (or later) JDK
